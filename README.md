@@ -31,5 +31,7 @@ If you want to contribute, fork the project and write your feature in (discord.p
 
 ## Developers
 ! SnXper#3246
+
 RaidTheWeb#5514
+
 Jellytoaster#2145
