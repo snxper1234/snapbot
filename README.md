@@ -24,7 +24,7 @@ The bot doesn't have as much moderation as MEE6, but it still works and the bot 
 Both of those bots mainly focus on moderation... we have about 13 fun commands?
 
 #### 🎧 Music
-Listen up, we have tons of music control over here, including pause and play!
+Tons of control over the music including pausing and playing music
 
 ## Contributing
 If you want to contribute, fork the project and write your feature in (discord.py only!) We will review and merge the pull request into the main!
